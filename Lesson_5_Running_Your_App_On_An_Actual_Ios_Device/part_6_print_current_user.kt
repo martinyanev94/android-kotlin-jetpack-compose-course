@@ -1,0 +1,1 @@
+print("Current user: $userName")
